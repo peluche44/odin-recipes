@@ -1,1 +1,2 @@
 # odin-recipes
+Today is the first week of myself learning about coding and creating my own website.  So far I feel excited to learn more.  I am hoping to continue to feel intrigued, although I know there will be many frustrating moments.  At times it feels overwhelming, because it is just like learning a foreign language in the end. So far I can understand the very basics of setting up a website.  This will be my first project.  It will not be very beautiful but it will have so much meaning to me!
